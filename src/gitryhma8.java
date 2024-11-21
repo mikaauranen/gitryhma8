@@ -2,7 +2,7 @@ public class gitryhma8 {
     public static void main(String[] args) {
         // Olion luominen
         Henkilo henkilo1 = new Henkilo("Mika", 30);
-        Henkilo henkilo2 = new Henkilo();
+        Henkilo henkilo2 = new Henkilo("Tiia", 32);
         Henkilo henkilo3 = new Henkilo();
         Henkilo henkilo4 = new Henkilo();
 
